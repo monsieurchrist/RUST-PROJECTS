@@ -1,0 +1,30 @@
+Jeu: 421
+Vainqueur(s): Poisson
+Perdant(s): Loup, Agneau, Tigre, Chien, Balance, Gorille, Corbeau
+Somme gagnée: 0
+
+Jeu: Pierre-Papier-Ciseaux
+Vainqueur(s): Loup
+Perdant(s): Agneau, Tigre, Chien, Poisson, Balance, Gorille, Corbeau
+Somme gagnée: 0
+
+Jeu: Joker
+Vainqueur(s): Tigre
+Perdant(s): Loup, Agneau, Chien, Balance, Gorille, Corbeau
+Somme gagnée: 2000000000
+
+Jeu: 421
+Vainqueur(s): Chien
+Perdant(s): Loup, Agneau, Tigre, Poisson, Balance, Gorille, Corbeau
+Somme gagnée: 0
+
+Jeu: Pierre-Papier-Ciseaux
+Vainqueur(s): Loup
+Perdant(s): Agneau, Tigre, Chien, Poisson, Balance, Gorille, Corbeau
+Somme gagnée: 0
+
+Jeu: Joker
+Vainqueur(s): Balance
+Perdant(s): Loup, Agneau, Tigre, Poisson, Gorille, Corbeau
+Somme gagnée: 2000000000
+
