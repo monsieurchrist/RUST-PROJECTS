@@ -7,9 +7,14 @@ Bienvenue dans mon dépôt de projets Rust ! Vous trouverez ici une collection d
 
 ## Projets disponibles
 
-- **Calculatrice Rust** : Une application de calculatrice simple en Rust.
-- **Jeu de 421** : Un jeu de dés développé en Rust.
-- **Calendrier** : Une application calendrier interactive.
+📁 RUST-PROJECTS
+ ┣ 📂 Calendrier
+ ┣ 📂 Jeu_de_421
+ ┣ 📂 Squid-game
+ ┣ 📂 PGCD
+ ┣ 📂 fnac
+ ┣ 📂 search-secret
+ ┗ 📂 serveur
 
 ## Installation
 
