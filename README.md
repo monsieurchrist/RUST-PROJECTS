@@ -39,13 +39,14 @@ Ce dépôt regroupe plusieurs projets développés en Rust pour explorer diverse
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### 📊 **Stats GitHub**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsieurchrist&show_icons=true&theme=radical)
+:[Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsieurchrist&layout=compact&theme=radical)
+
+
 ## ⚡ **Installation & Utilisation**  
 
 ### 1️⃣ **Cloner le dépôt**  
-```sh
+
 git clone https://github.com/monsieurchrist/RUST-PROJECTS.git
 cd RUST-PROJECTS
-
-### 📊 **Stats GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsieurchrist&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsieurchrist&layout=compact&theme=radical)
