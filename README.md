@@ -41,7 +41,7 @@ Ce dépôt regroupe plusieurs projets développés en Rust pour explorer diverse
 
 ### 📊 **Stats GitHub**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsieurchrist&show_icons=true&theme=radical)
-:[Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsieurchrist&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monsieurchrist&layout=compact&theme=radical)
 
 
 ## ⚡ **Installation & Utilisation**  
