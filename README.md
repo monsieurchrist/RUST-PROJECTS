@@ -47,6 +47,10 @@ Ce dépôt regroupe plusieurs projets développés en Rust pour explorer diverse
 ## ⚡ **Installation & Utilisation**  
 
 ### 1️⃣ **Cloner le dépôt**  
-
+```sh
 git clone https://github.com/monsieurchrist/RUST-PROJECTS.git
-cd RUST-PROJECTS
+cd RUST-PROJECTS 
+cd Calendrier  # Remplacez par le projet de votre choix
+cargo run
+cargo test
+
