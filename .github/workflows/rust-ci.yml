@@ -1,0 +1,29 @@
+name: Rust CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v3
+
+      - name: Installer Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Vérifier la qualité du code (Clippy)
+        run: cargo clippy -- -D warnings
+
+      - name: Vérifier la mise en forme (Rustfmt)
+        run: cargo fmt -- --check
+
+      - name: Compiler le projet
+        run: cargo build --verbose
+
+      - name: Lancer les tests
+        run: cargo test --verbose
