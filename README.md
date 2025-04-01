@@ -1,46 +1,50 @@
-# RUST-PROJECTS
+# 🚀 RUST-PROJECTS
 
-![Image de mon projet](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkyM3N5OGgwaXZ4cG9xMTVwNGZoZWJ0bGIxeTY3MzV1OGl6ZG5peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQHtUvva9Qljy/giphy.gif)
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGkyM3N5OGgwaXZ4cG9xMTVwNGZoZWJ0bGIxeTY3MzV1OGl6ZG5peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQHtUvva9Qljy/giphy.gif" width="80%" alt="Rust Coding">
+</p>
 
+📌 **Bienvenue sur *RUST-PROJECTS*!**  
+Ce dépôt regroupe plusieurs projets développés en Rust pour explorer diverses facettes du langage et renforcer mes compétences en programmation système et applicative.
 
-Bienvenue dans mon dépôt de projets Rust ! Vous trouverez ici une collection de projets que j'ai créés pour explorer différentes facettes du langage Rust.
+---
 
-## Projets disponibles
+## 📚 Table des matières
+- [🛠 Projets disponibles](#-projets-disponibles)
+- [⚡ Installation & Utilisation](#-installation--utilisation)
+- [📌 Technologies utilisées](#-technologies-utilisées)
+- [🚀 Mes autres projets](#-mes-autres-projets)
+- [💡 Contribuer](#-contribuer)
+- [📞 Contact](#-contact)
 
-📁 RUST-PROJECTS
- ┣ 📂 Calendrier
- ┣ 📂 Jeu_de_421
- ┣ 📂 Squid-game
- ┣ 📂 PGCD
- ┣ 📂 fnac
- ┣ 📂 search-secret
- ┗ 📂 serveur
+---
 
-## Installation
+## 🛠 **Projets disponibles**
 
-1. Clonez le dépôt :  
-   `git clone https://github.com/monsieurchrist/RUST-PROJECTS.git`
-2. Accédez au dossier du projet :
-   `cd RUST-PROJECTS`
-3. Suivez les instructions spécifiques à chaque projet dans leur répertoire respectif.
+| 📁 Projet       | 📝 Description |
+|----------------|--------------|
+| **Calendrier** | 📅 Un calendrier interactif en Rust. |
+| **Jeu_de_421** | 🎲 Jeu de dés classique en Rust. |
+| **Squid-game** | 🦑 Reproduction de mini-jeux inspirés de Squid Game. |
+| **PGCD** | 🔢 Calcul du Plus Grand Commun Diviseur en Rust. |
+| **fnac** | 🛒 Simulateur de recherche de produits FNAC en ligne. |
+| **search-secret** | 🔎 Moteur de recherche sécurisé en Rust. |
+| **serveur** | 🖥️ Un mini-serveur Web performant en Rust. |
+| **test-brouillons** | 📝 Un espace pour expérimenter du code. |
 
-## Contribuer
-
-Si vous souhaitez contribuer, veuillez créer une branche, y effectuer vos modifications et soumettre une pull request.
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
+---
 
 ## 🌱 Technologies & Outils
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🔥 Mes projets récents
-🚀 **[RUST-PROJECTS](https://github.com/monsieurchrist/RUST-PROJECTS)**  
-🛡️ **[ELK & Suricata Security](https://github.com/monsieurchrist/ELK-Suricata)**  
+## ⚡ **Installation & Utilisation**  
 
----
+### 1️⃣ **Cloner le dépôt**  
+```sh
+git clone https://github.com/monsieurchrist/RUST-PROJECTS.git
+cd RUST-PROJECTS
 
 ### 📊 **Stats GitHub**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monsieurchrist&show_icons=true&theme=radical)
